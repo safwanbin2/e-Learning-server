@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "title": "HTML-5",
+        "img": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/686515/retina_1708x683_01-HTML5_CM-8384522cf54d2bf230364f4a290605a1.png",
+        "duration": "2.00"
+    },
+    {
+        "id": "02",
+        "title": "CSS-3",
+        "img": "https://anteelo.com/wp-content/uploads/2021/05/css3.jpg",
+        "duration": "5.00"
+    },
+    {
+        "id": "03",
+        "title": "Tailwind",
+        "img": "https://tailwindcss.com/_next/static/media/tailwindui-small@75.8bb955b2.jpg",
+        "duration": "2.30"
+    },
+    {
+        "id": "04",
+        "title": "JavaScript",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfyntUJI-LjCuti8WfMD5qD-0tyz40rdrN_MJMdzIAnZ6ZPqvkE03ot4QekGhY5Ef32M&usqp=CAU",
+        "duration": "12.00"
+    },
+    {
+        "id": "05",
+        "title": "React",
+        "img": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687822/retina_1708x683_cover-react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png",
+        "duration": "15.00"
+    },
+    {
+        "id": "06",
+        "title": "Node Js",
+        "img": "https://moralis.io/wp-content/uploads/2021/08/07-30-2021-moralis-blogpost-node.js-V10.png",
+        "duration": "10.00"
+    }
+]
