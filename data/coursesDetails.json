@@ -1,0 +1,50 @@
+[
+    {
+        "id": "01",
+        "title": "HTML-5",
+        "img": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/686515/retina_1708x683_01-HTML5_CM-8384522cf54d2bf230364f4a290605a1.png",
+        "duration": "2.00",
+        "description": "Hi,You can use HTML (Hypertext Markup Language) for formatting if you like spending a long time doing inline formatting and  don't like CSS. HTML is the foundation of a website it contains the information that tells the browser what is on the page in terms of text, links, where to find images. It also gives priorities to text, is it a header? Is it a paragraph? Is it a sub heading.You can also style individual words in HTML to make them, bold, italic, underline etc. It is like the skeleton of a webpage, it tells you what kind of creature you are dealing with and how all the limbs are organised.CSS  (Cascading Style Sheet), is a sheet of instructions that tells you how your webpage is organised and what it looks like in more detail. It adds the skin, eyes, hair and clothes to our skeleton HTML. You can change the colour/font/size/style of large chunks of text at a time. You can use it to move blocks of text and pictures around on your page. You can also use coding shortcuts (like bookstrap) to make this even easier.And finally Java script is the muscles and ligaments of our creature. It animates webpages, making menus appear and dissapear.If you are really interested then websites like codeacademy or one of a thousand phone apps will teach you more and let you play with the code yourself.I hope this helpsAlice :)",
+        "price": "8.00"
+    },
+    {
+        "id": "02",
+        "title": "CSS-3",
+        "img": "https://anteelo.com/wp-content/uploads/2021/05/css3.jpg",
+        "duration": "5.00",
+        "description": "A Cascading Style Sheet commonly known as CSS is a layer of design over HTML elements. It is a general idea that HTML is like a skeleton and CSS is the skin over it. To get a general idea, HTML is responsible for the basic structure of web pages, the contents and their sequence is determined by the HTML document but CSS styles the HTML document and makes it look presentable by adding font, size and color to it. It saves a lot of work and can control the layout of multiple web pages in one go. Javascript is used to make websites interactive and dynamic.",
+        "price": "12.00"
+    },
+    {
+        "id": "03",
+        "title": "Tailwind",
+        "img": "https://tailwindcss.com/_next/static/media/tailwindui-small@75.8bb955b2.jpg",
+        "duration": "2.30",
+        "description": "Tailwind CSS makes it quicker to write and maintain the code of your application. By using this utility-first framework, you don’t have to write custom CSS to style your application. Instead, you can use utility classes to control the padding, margin, color, font, shadow, and more of your application.There may be a learning curve to familiarize yourself with these utility classes, but once you do, you’ll be able to create and maintain applications faster than ever before.",
+        "price": "6.00"
+    },
+    {
+        "id": "04",
+        "title": "JavaScript",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfyntUJI-LjCuti8WfMD5qD-0tyz40rdrN_MJMdzIAnZ6ZPqvkE03ot4QekGhY5Ef32M&usqp=CAU",
+        "duration": "12.00",
+        "description": "JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user. Common examples of JavaScript that you might use every day include the search box on Amazon, a news recap video embedded on The New York Times, or refreshing your Twitter feed.JavaScript is mainly used for web-based applications and web browsers. But JavaScript is also used beyond the Web in software, servers and embedded hardware controls. Here are some basic things JavaScript is used for:",
+        "price": "22.00"
+    },
+    {
+        "id": "05",
+        "title": "React",
+        "img": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687822/retina_1708x683_cover-react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png",
+        "duration": "15.00",
+        "description": "React is a JavaScript library developed by Facebook which, among other things, was used to build Instagram.com. Its aim is to allow developers to easily create fast user interfaces for websites and applications alike. The main concept of React.js is virtual DOM. It is a tree based on JavaScript components created with React that mimics a DOM tree. It does the least amount of DOM manipulation possible in order to keep your React components up to date.Check out the Pete Hunt talk introducing the web framework, and overviewing three controversial topics: Throwing out the notion of templates and building views with JavaScript re-rendering your entire application when your data changes, and a lightweight implementation of DOM and events.",
+        "price": "30.00"
+    },
+    {
+        "id": "06",
+        "title": "Node Js",
+        "img": "https://moralis.io/wp-content/uploads/2021/08/07-30-2021-moralis-blogpost-node.js-V10.png",
+        "duration": "10.00",
+        "description": "Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine). Node.js was developed by Ryan Dahl in 2009 and its latest version is v0.10.36. The definition of Node.js as supplied by its official documentation .Node.js is an open source, cross-platform runtime environment for developing server-side and networking applications. Node.js applications are written in JavaScript, and can be run within the Node.js runtime on OS X, Microsoft Windows, and Linux. Node.js also provides a rich library of various JavaScript modules which simplifies the development of web applications using Node.js to a great extent.",
+        "price": "15.00"
+    }
+]
